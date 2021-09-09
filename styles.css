@@ -1,0 +1,56 @@
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #033A67;
+}
+
+.nav li{
+    float: left;
+}
+
+.nav li a{
+    display: block;
+    color: white;
+    font-family: Helvetica;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: #A2D2FA;
+}
+
+h1 {
+    text-align: center;
+    font:  4em sans-serif;
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+    font:  1.5em sans-serif;
+    margin: 10px;
+}
+
+#visual img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#visual p {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+    padding: 20px 100px
+}
+
+.learn {
+    text-align: center;
+    padding: 20px 100px
+}
