@@ -45,16 +45,19 @@ h2 {
 
 #visual p {
     text-align: center;
+    font: italic bold 12px Georgia;
 }
 
 .about {
     text-align: center;
     padding: 20px 100px;
     border-style: solid;
+    font: 15px Monaco;
 }
 
 .learn {
     text-align: center;
     padding: 20px 100px;
-    border-style: solid;
+    border-style: dotted;
+    font: 15px Monaco;
 }
