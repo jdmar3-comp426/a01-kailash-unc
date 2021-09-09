@@ -62,7 +62,8 @@ h2 {
     text-align: center;
     padding: 20px 100px;
     border-style: solid;
-    font: 15px Jazz LET, fantasy;
+    font-family: Jazz LET, fantasy;
+    font-size: 15px;
 }
 
 .learn {
