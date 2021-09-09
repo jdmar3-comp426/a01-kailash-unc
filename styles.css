@@ -25,13 +25,13 @@
 
 h1 {
     text-align: center;
-    font:  4em sans-serif;
+    font:  4em Arial, sans-serif;
     margin: 10px;
 }
 
 h2 {
     text-align: center;
-    font:  1.5em sans-serif;
+    font:  1.5em Courier, monospace;
     margin: 10px;
 }
 
@@ -55,14 +55,14 @@ h2 {
 
 .centr {
     text-align: center;
-    font: 20px sans-serif;
+    font: 20px Bradley Hand, cursive;
 }
 
 .about {
     text-align: center;
     padding: 20px 100px;
     border-style: solid;
-    font: 15px Monaco;
+    font: 15px Jazz LET, fantasy;
 }
 
 .learn {
