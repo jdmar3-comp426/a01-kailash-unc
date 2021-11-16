@@ -1,0 +1,74 @@
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #033A67;
+}
+
+.nav li{
+    float: left;
+}
+
+.nav li a{
+    display: block;
+    color: white;
+    font-family: Helvetica;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: #A2D2FA;
+}
+
+h1 {
+    text-align: center;
+    font:  4em Arial, sans-serif;
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+    font:  1.5em Courier, monospace;
+    margin: 10px;
+}
+
+#visual, .nama img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 45%;
+    width: 45%;
+}
+
+.nama img{
+    height: 25%;
+    width: 25%;
+}
+
+#visual, .nama p {
+    text-align: center;
+    font: italic bold 12px Georgia;
+}
+
+.centr {
+    text-align: center;
+    font: 20px Bradley Hand, cursive;
+}
+
+.about {
+    text-align: center;
+    padding: 20px 100px;
+    border-style: solid;
+    font-family: Jazz LET, fantasy;
+    font-size: 15px;
+}
+
+.learn {
+    text-align: center;
+    padding: 20px 100px;
+    border-style: dotted;
+    font: 15px Monaco;
+}
